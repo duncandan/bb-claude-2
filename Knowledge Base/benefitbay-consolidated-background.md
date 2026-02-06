@@ -30,11 +30,6 @@ To revolutionize the benefits landscape, crafting a future where every individua
 - Adjustments possible in real-time
 - No lengthy delays for proposals or changes
 
-#### Subsidy Advantage
-- Puts government subsidy dollars to work for small businesses
-- Provides employees visibility into available government subsidy dollars
-- Potentially lowers costs for both employer and employee
-
 #### Advanced Reimbursement Checking (ARC)
 - Widely considered the best ICHRA premium payment solution
 - Accounts established and pre-funded for each employee
@@ -50,7 +45,7 @@ To revolutionize the benefits landscape, crafting a future where every individua
 | **Employee/Employer Portal** | Intuitive interface for hassle-free ICHRA administration with real-time access |
 | **Employee Enrollment Support** | Straightforward shopping and enrollment guidance with individual health plan selection support |
 | **Full Compliance, Built-In** | Rigorously tested compliance standards, ICHRA plans meet regulatory requirements |
-| **Transparency Features** | Government subsidy visibility, cost reduction opportunities, administrative support |
+| **Transparency Features** | Cost reduction opportunities, administrative support, clear benefit visibility |
 
 ---
 
@@ -70,7 +65,6 @@ To revolutionize the benefits landscape, crafting a future where every individua
 - Rapid deployment
 
 #### Employee Financial Support
-- Government subsidy visibility and optimization
 - Automatic payment through ARC Accounts
 - Pre-tax payroll deductions
 - Eliminates employee out-of-pocket premium payments
@@ -86,7 +80,6 @@ To revolutionize the benefits landscape, crafting a future where every individua
 - Days-later static proposals
 - No compliance assurance
 - Lengthy delays for changes
-- Employees unaware of government subsidy opportunities
 - Employees pay full premium and file for reimbursement (creates hardship)
 
 ---
@@ -114,7 +107,6 @@ Individual Coverage Health Reimbursement Arrangement (pronounced IK-RAH) is a be
 
 - Individual health plans matching specific needs
 - Same financial support as group plan but with personal choice
-- Visibility into government subsidy opportunities
 - Ability to choose plans that fit their unique circumstances
 
 ---
@@ -138,13 +130,11 @@ Individual Coverage Health Reimbursement Arrangement (pronounced IK-RAH) is a be
 - Fixed, often lower pricing
 - Reduced administrative responsibilities
 - Employee choice and retention competitive advantage
-- Cost savings and subsidy optimization
+- Cost savings and budget predictability
 
 ### For Employees
 
-- Gain visibility and support into subsidy opportunities
 - Choose individual health plans matching specific needs
-- Visibility into government subsidy dollars
 - Transparency in benefit choices
 - Streamlined enrollment and support
 
@@ -171,7 +161,7 @@ Featured prominently across media including:
 | **Speed** | Real-time modeling | Days-later proposals |
 | **Compliance** | Built-in, verified | No assurance |
 | **Flexibility** | Real-time adjustments | Lengthy delays |
-| **Optimization** | Government subsidy visibility | Missed opportunities |
+| **Optimization** | Cost control and budget tools | Limited flexibility |
 | **Ease** | Intuitive portals | Cumbersome administration |
 | **Financial Health** | ARC Accounts | Employee expense reimbursement |
 
@@ -192,7 +182,6 @@ Featured prominently across media including:
 3. **Technology Leadership**
    - Real-time modeling innovation
    - AI and automation in benefits
-   - Subsidy optimization technology
    - ARC Account innovation
 
 4. **Broker Success Stories**
@@ -207,7 +196,7 @@ Featured prominently across media including:
 
 6. **Employee Experience**
    - Personalization in benefits (brand differentiation)
-   - Cost transparency and subsidy optimization
+   - Cost transparency
    - Enrollment simplification
 
 7. **Leadership & Company Vision**
@@ -245,7 +234,6 @@ Featured prominently across media including:
 
 - Growing worker preference for cost-effective, flexible benefits
 - Uncertainty around traditional group health plans
-- Government subsidy programs supporting individual plans
 - Demographic shifts favoring personalized benefits
 
 ### Relevant Market Trends (Supporting ICHRA Growth)

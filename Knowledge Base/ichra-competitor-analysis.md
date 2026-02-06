@@ -281,7 +281,7 @@ The ICHRA market has six major competitors competing against BenefitBay, each wi
 |-----------|-------------|
 | **Real-time Modeling** | Faster than days-later proposals (SureCo admits this gap) |
 | **Broker-first Suite** | Full sales suite for agents (vs. most competitors' software-only) |
-| **Government Subsidy Visibility** | Thatch integrates wellness; BenefitBay emphasizes subsidy optimization |
+| **Cost Control Tools** | Budget predictability and contribution modeling |
 | **ARC Accounts** | Direct payment solution (vs. reimbursement models) |
 | **"ICHRA Fever" Narrative** | Strongest 2025 media momentum and market positioning |
 | **All-Size Focus** | Unlike SureCo (large-only) or Zorro (large-only) |
@@ -306,7 +306,7 @@ Based on competitive analysis, BenefitBay should emphasize:
 2. **Broker Economics** - Emphasize full sales suite and competitive PEPM benefits vs. software-only competitors
 3. **Market Momentum** - Continue "ICHRA Fever" narrative (highest media momentum)
 4. **Technology Leadership** - Counter Zorro's AI-first with BenefitBay's combined AI + real-time modeling
-5. **Subsidy Optimization** - Differentiate from Thatch's wellness focus with financial optimization messaging
+5. **Cost Control** - Differentiate from Thatch's wellness focus with budget predictability and contribution modeling
 6. **All-Size Approach** - Position as "for every employer" vs. SureCo/Zorro's large-group focus
 7. **Thought Leadership** - Match Remodel Health's educational content (ICHRA Academy, Exclusive Podcast)
 
